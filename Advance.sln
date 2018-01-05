@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planb.winforms", "Planb.win
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planb.data", "Planb.data\Planb.data.csproj", "{88DC3108-1859-440C-B5B4-592A40FA241C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planb.Services", "Planb.Services\Planb.Services.csproj", "{4FB7450C-1A72-4E7F-BECB-2F570FA6A83C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planb.Entities", "Planb.Entities\Planb.Entities.csproj", "{0833F196-3580-427C-9ED1-FE64C86A480C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{88DC3108-1859-440C-B5B4-592A40FA241C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88DC3108-1859-440C-B5B4-592A40FA241C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88DC3108-1859-440C-B5B4-592A40FA241C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB7450C-1A72-4E7F-BECB-2F570FA6A83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB7450C-1A72-4E7F-BECB-2F570FA6A83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB7450C-1A72-4E7F-BECB-2F570FA6A83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB7450C-1A72-4E7F-BECB-2F570FA6A83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0833F196-3580-427C-9ED1-FE64C86A480C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0833F196-3580-427C-9ED1-FE64C86A480C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0833F196-3580-427C-9ED1-FE64C86A480C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0833F196-3580-427C-9ED1-FE64C86A480C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
